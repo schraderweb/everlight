@@ -1,4 +1,80 @@
+/* Form */
+  .everlight-form-wrapper {
+    background: #154734;
+    border-radius: 18px;
+    box-shadow: 0 4px 24px 0 rgba(21, 71, 52, 0.18);
+    padding: 36px 28px 32px 28px;
+    max-width: 720px;
+    margin: 40px auto;
+    color: #e4eae7;
+    font-family: 'Roboto', Arial, sans-serif;
+  }
+  .everlight-form-wrapper h2,
+  .everlight-form-wrapper h5 {
+    color: #fff;
+    font-family: 'EB Garamond', serif;
+  }
+  .everlight-form-wrapper label,
+  .everlight-form-wrapper .form-check-label {
+    color: #e4eae7;
+    font-weight: 500;
+    font-size: 15px;
+  }
+  .everlight-form-wrapper .form-control,
+  .everlight-form-wrapper .form-check-input {
+    background: #183f31;
+    border: 1.5px solid #274b38;
+    color: #fff;
+    border-radius: 7px;
+    font-size: 15px;
+    box-shadow: none !important;
+  }
+  .everlight-form-wrapper .form-control:focus,
+  .everlight-form-wrapper .form-check-input:focus {
+    border-color: #fff;
+    background: #204d3a;
+    color: #fff;
+  }
+  .everlight-form-wrapper .form-check-input:checked {
+    background-color: #fff;
+    border-color: #fff;
+  }
+  .everlight-form-wrapper .btn-primary {
+    background: linear-gradient(90deg, #fff 75%, #2bb97e 100%);
+    border: none;
+    color: #183f31;
+    font-weight: 700;
+    font-size: 17px;
+    padding: 10px 36px;
+    border-radius: 30px;
+    box-shadow: 0 2px 8px rgba(255, 215, 0, 0.08);
+    transition: background 0.18s;
+  }
+  .everlight-form-wrapper .btn-primary:hover {
+    background: #2bb97e;
+    color: #fff;
+  }
+  .everlight-form-wrapper ul {
+    background: #183f31;
+    padding: 16px 24px 14px 26px;
+    border-radius: 9px;
+    margin-bottom: 28px;
+    border-left: 3.5px solid #fff;
+    font-size: 15px;
+  }
+  .everlight-form-wrapper .small {
+    color: #e3e3cc;
+    background: #1b4532;
+    padding: 14px 20px;
+    border-radius: 7px;
+    border-left: 3px solid #fff;
+    margin-bottom: 0;
+  }
+  @media (max-width: 700px) {
+    .everlight-form-wrapper { padding: 18px 5vw 16px 5vw; }
+  }
 
+/*  */
     body {
       margin: 0;
       background: #165246;
@@ -155,12 +231,12 @@
     }
 
     .custom-hero-bg-2 {
-      background: url('../img/banner/2.jpg') center center/cover no-repeat;
+      background: url('../img/banner/1.jpg') center center/cover no-repeat;
 
     }
 
     .custom-hero-bg-3 {
-      background: url('../img/banner/3.jpg') center center/cover no-repeat;
+      background: url('../img/banner/1.jpg') center center/cover no-repeat;
 
     }
 
