@@ -16,13 +16,13 @@
   }
   .everlight-form-wrapper label,
   .everlight-form-wrapper .form-check-label {
-    color: #e4eae7;
+    color: #e4eae6;
     font-weight: 500;
     font-size: 15px;
   }
   .everlight-form-wrapper .form-control,
   .everlight-form-wrapper .form-check-input {
-    background: #7dd4b4;
+    background: #eeeae4;
     border: 1.5px solid #274b38;
     color: #fff;
     border-radius: 7px;
