@@ -1,5 +1,5 @@
 /* Form */
-  .everlight-form-wrapper {
+    .everlight-form-wrapper {
     background: #154734;
     border-radius: 18px;
     box-shadow: 0 4px 24px 0 rgba(21, 71, 52, 0.18);
@@ -11,7 +11,7 @@
   }
   .everlight-form-wrapper h2,
   .everlight-form-wrapper h5 {
-    color: #fff;
+    color: #FFD700;
     font-family: 'EB Garamond', serif;
   }
   .everlight-form-wrapper label,
@@ -31,16 +31,16 @@
   }
   .everlight-form-wrapper .form-control:focus,
   .everlight-form-wrapper .form-check-input:focus {
-    border-color: #fff;
+    border-color: #FFD700;
     background: #204d3a;
     color: #fff;
   }
   .everlight-form-wrapper .form-check-input:checked {
-    background-color: #fff;
-    border-color: #fff;
+    background-color: #FFD700;
+    border-color: #FFD700;
   }
   .everlight-form-wrapper .btn-primary {
-    background: linear-gradient(90deg, #fff 75%, #2bb97e 100%);
+    background: linear-gradient(90deg, #FFD700 75%, #e1b700 100%);
     border: none;
     color: #183f31;
     font-weight: 700;
@@ -51,15 +51,15 @@
     transition: background 0.18s;
   }
   .everlight-form-wrapper .btn-primary:hover {
-    background: #2bb97e;
-    color: #fff;
+    background: #ffc300;
+    color: #154734;
   }
   .everlight-form-wrapper ul {
     background: #183f31;
     padding: 16px 24px 14px 26px;
     border-radius: 9px;
     margin-bottom: 28px;
-    border-left: 3.5px solid #fff;
+    border-left: 3.5px solid #FFD700;
     font-size: 15px;
   }
   .everlight-form-wrapper .small {
@@ -67,7 +67,7 @@
     background: #1b4532;
     padding: 14px 20px;
     border-radius: 7px;
-    border-left: 3px solid #fff;
+    border-left: 3px solid #FFD700;
     margin-bottom: 0;
   }
   @media (max-width: 700px) {
