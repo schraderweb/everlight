@@ -82,9 +82,10 @@
 }
 
  @media (max-width: 480px) {
-
+  
   .everlight-logo{
-  width: 55px !important;
+    margin-left: 35px;
+  width: 95px !important;
 }
 
   }
