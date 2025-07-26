@@ -77,7 +77,8 @@
 /*  */
 
 .everlight-logo{
-  width: 85px !important;
+  margin: 10px 0;
+  width: 95px !important;
 }
 
  @media (max-width: 480px) {
