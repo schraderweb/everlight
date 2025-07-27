@@ -1,5 +1,5 @@
 document.getElementById('currentYear').textContent = new Date().getFullYear();
-document.getElementById('year').textContent = new Date().getFullYear();
+
 
 var swiper = new Swiper('.testimonials-swiper', {
   slidesPerView: 2,
