@@ -290,8 +290,8 @@
   .everlight-form-wrapper .form-control:focus,
   .everlight-form-wrapper .form-check-input:focus {
     border-color: #FFD700;
-    background: #204d3a;
-    color: #fff;
+    background: #FFFDD0;
+    color: #000;
   }
   .everlight-form-wrapper .form-check-input:checked {
     background-color: #FFD700;
