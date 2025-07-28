@@ -280,9 +280,9 @@
   }
   .everlight-form-wrapper .form-control,
   .everlight-form-wrapper .form-check-input {
-    background: #eeeae4;
+    background: #FFFDD0;
     border: 1.5px solid #274b38;
-    color: #fff;
+    color: #000;
     border-radius: 7px;
     font-size: 15px;
     box-shadow: none !important;
@@ -336,6 +336,9 @@
 
 .everlight-logo{
   /* margin: 10px 0; */
+  margin: 0px !important;
+  padding: 0px !important;
+
   width: 120px !important;
 }
 
